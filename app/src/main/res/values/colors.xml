@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#34495e</color>
+    <color name="tryy">#32ceff</color>
+    <color name="colorAccent">#fff</color>
+    <color name="bg">#a6ccde</color>
+    <!--<color name="colorPrimary">#262b3a</color>-->
+    <color name="colorPrimaryDark">#34495e</color>
+    <!--<color name="colorPrimaryDark">#262b3a</color>-->
+    <color name="textColor">#fff</color>
+    <color name="mycolor">#24243e</color>
+    <color name="custom" >#2b2941</color>
+    <color name="t">#ce484968</color>
+    <color name="mySms">#00f37e</color>
+    <color name="red">#ff6e6e</color>
+    <color name="orange">#1cb9bc</color>
+    <color name="black_">#354051</color>
+    <color name="received">#34495e</color>
+</resources>
